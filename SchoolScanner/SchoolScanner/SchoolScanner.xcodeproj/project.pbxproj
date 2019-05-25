@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E7DB1102299F52A0087CD32 /* StartPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E7DB10F2299F52A0087CD32 /* StartPageViewController.swift */; };
+		3E8C8F462299F1150081B383 /* FoldersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E8C8F452299F1150081B383 /* FoldersViewController.swift */; };
+		3E8C8F482299F1520081B383 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E8C8F472299F1520081B383 /* SettingsViewController.swift */; };
+		3E8C8F4A2299F2BF0081B383 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E8C8F492299F2BF0081B383 /* CameraViewController.swift */; };
+		3E8C8F4C2299F2F40081B383 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E8C8F4B2299F2F30081B383 /* MenuViewController.swift */; };
+		3E8C8F4E2299F3C60081B383 /* PaymentOptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E8C8F4D2299F3C60081B383 /* PaymentOptionsViewController.swift */; };
+		3E8C8F502299F4220081B383 /* TermsConditionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E8C8F4F2299F4220081B383 /* TermsConditionsViewController.swift */; };
 		E41881162295F03F00380995 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41881152295F03F00380995 /* AppDelegate.swift */; };
 		E41881182295F03F00380995 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41881172295F03F00380995 /* ViewController.swift */; };
 		E418811B2295F03F00380995 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E41881192295F03F00380995 /* Main.storyboard */; };
@@ -34,6 +41,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3E7DB10F2299F52A0087CD32 /* StartPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartPageViewController.swift; sourceTree = "<group>"; };
+		3E8C8F452299F1150081B383 /* FoldersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoldersViewController.swift; sourceTree = "<group>"; };
+		3E8C8F472299F1520081B383 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		3E8C8F492299F2BF0081B383 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		3E8C8F4B2299F2F30081B383 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		3E8C8F4D2299F3C60081B383 /* PaymentOptionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentOptionsViewController.swift; sourceTree = "<group>"; };
+		3E8C8F4F2299F4220081B383 /* TermsConditionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TermsConditionsViewController.swift; sourceTree = "<group>"; };
 		E41881122295F03F00380995 /* SchoolScanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SchoolScanner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E41881152295F03F00380995 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E41881172295F03F00380995 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +114,13 @@
 				E41881152295F03F00380995 /* AppDelegate.swift */,
 				E41881172295F03F00380995 /* ViewController.swift */,
 				E41881192295F03F00380995 /* Main.storyboard */,
+				3E7DB10F2299F52A0087CD32 /* StartPageViewController.swift */,
+				3E8C8F4F2299F4220081B383 /* TermsConditionsViewController.swift */,
+				3E8C8F4D2299F3C60081B383 /* PaymentOptionsViewController.swift */,
+				3E8C8F4B2299F2F30081B383 /* MenuViewController.swift */,
+				3E8C8F492299F2BF0081B383 /* CameraViewController.swift */,
+				3E8C8F472299F1520081B383 /* SettingsViewController.swift */,
+				3E8C8F452299F1150081B383 /* FoldersViewController.swift */,
 				E418811C2295F04100380995 /* Assets.xcassets */,
 				E418811E2295F04100380995 /* LaunchScreen.storyboard */,
 				E41881212295F04100380995 /* Info.plist */,
@@ -257,7 +278,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				E41881182295F03F00380995 /* ViewController.swift in Sources */,
+				3E8C8F4E2299F3C60081B383 /* PaymentOptionsViewController.swift in Sources */,
+				3E8C8F502299F4220081B383 /* TermsConditionsViewController.swift in Sources */,
+				3E8C8F4C2299F2F40081B383 /* MenuViewController.swift in Sources */,
+				3E7DB1102299F52A0087CD32 /* StartPageViewController.swift in Sources */,
+				3E8C8F4A2299F2BF0081B383 /* CameraViewController.swift in Sources */,
 				E41881162295F03F00380995 /* AppDelegate.swift in Sources */,
+				3E8C8F462299F1150081B383 /* FoldersViewController.swift in Sources */,
+				3E8C8F482299F1520081B383 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
